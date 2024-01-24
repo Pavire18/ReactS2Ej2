@@ -1,0 +1,10 @@
+.book-list__table {
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.book-list__table td,
+.book-list__table th {
+    border: 1px solid #000;
+    padding: 5px;
+}
